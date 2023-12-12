@@ -1,1 +1,1 @@
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=nanioy&hide=html](https://github-readme-stats.vercel.app/api/top-langs/?username=nanioy&hide=html&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanioy&hide=html&layout=compact&theme=dracula)
